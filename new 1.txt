@@ -1,0 +1,9 @@
+Agile: là một phương pháp phát triển
+Scrum: một thành viên của họ Agile
+Backlog: A plan made ny the scrum master
+
+Scrum: 
+ sprint planning -> daily scrum -> sprint review -> sprint retrospective (improving the sprint)
+ artifact?
+ 
+Git and Github: research more on how to use specifically on how to push onto the hub using git
